@@ -49,6 +49,8 @@ while True:
         c.send("Not Found".encode())
 c.close()
 s.close()
+
+
 client
 
 import socket
